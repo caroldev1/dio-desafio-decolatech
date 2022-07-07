@@ -1,5 +1,5 @@
-# dio-desafio-decolatech
-Repositório criado como desafio para o bootcamp decolatech 3ª edição da avanade
+# dio-desafio-projeto
+Repositório criado como desafio para o bootcamp DIO
 Desafio de Projeto Git/Github
 
 
